@@ -4,26 +4,6 @@
 
 ---
 
-## 📘 Table of Contents
-- [Project Overview](#project-overview)
-- [Purpose & Vision](#purpose--vision)
-- [Key Features (Detailed)](#key-features-detailed)
-- [Project Evolution & Improvements](#project-evolution--improvements)
-- [Technical Architecture](#technical-architecture)
-- [Installation & Setup (Step-by-Step)](#installation--setup-step-by-step)
-- [Configuration Guide (Detailed)](#configuration-guide-detailed)
-- [Project Structure (Complete)](#project-structure-complete)
-- [How It Works (Detailed Workflow)](#how-it-works-detailed-workflow)
-- [API Costs & Pricing](#api-costs--pricing)
-- [Improvements Made (Before/After)](#improvements-made-beforeafter)
-- [Troubleshooting & Solutions](#troubleshooting--solutions)
-- [Security & Privacy](#security--privacy)
-- [Future Roadmap](#future-roadmap)
-- [Contributing Guidelines](#contributing-guidelines)
-- [FAQ & Advanced Topics](#faq--advanced-topics)
-
----
-
 ## 🧩 Project Overview
 **Project Name:** LinkedIn AI Agent  
 **Version:** 1.1.0 *(Enhanced with LLM-powered topic selection)*  
